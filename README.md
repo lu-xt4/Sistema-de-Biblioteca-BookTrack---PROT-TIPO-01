@@ -6,9 +6,13 @@ O trabalho publicado é referente a uma atividade avaliativa do curso de Anális
 # Equipe/Grupo:
 
 **1. Luan Calixto Barbosa | 12826124000@ulife.com.br (E-mail institucional)**
+
 **2. Felipe Gabriel Costa de Lima | 12826120702@ulife.com.br (E-mail institucional)**
+
 **3. Gabriel Felinto Rodrigues | 12826127117@ulife.com.br (E-mail institucional)**
+
 **4. Mateus Batista de Siqueira Souza Dantas | 12826116593@ulife.com.br (E-mail institucional)**
+
 **5. João Vitor Pegado Autonamo | 12826133893@ulife.com.br (E-mail institucional)**
 
 ## Sobre o projeto
